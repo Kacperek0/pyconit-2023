@@ -1,16 +1,15 @@
+# Welcome PyCon Itala 2023
 
-# Welcome to your CDK Python project!
+This is sample serverless API written in Python using AWS CDK.
 
-This is a blank project for CDK development with Python.
+## What has been covered
+- Deploying a serverless API using AWS CDK
+- Using AWS CDK to deploy a Lambda function
+- Using AWS CDK to dynamically build lambda dependencies
+- Using AWS CDK to deploy an API Gateway
+- Using AWS CDK to deploy a DynamoDB table
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
-This project is set up like a standard Python project.  The initialization
-process also creates a virtualenv within this project, stored under the `.venv`
-directory.  To create the virtualenv it assumes that there is a `python3`
-(or `python` for Windows) executable in your path with access to the `venv`
-package. If for any reason the automatic creation of the virtualenv fails,
-you can create the virtualenv manually.
 
 To manually create a virtualenv on MacOS and Linux:
 
@@ -56,3 +55,4 @@ command.
  * `cdk docs`        open CDK documentation
 
 Enjoy!
+Kacper

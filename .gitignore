@@ -8,3 +8,6 @@ __pycache__
 # CDK asset staging directory
 .cdk.staging
 cdk.out
+
+# Lambda dynamic dependencies
+.lambda_dependencies
